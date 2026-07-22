@@ -1,0 +1,27 @@
+# openFrameworks / build artifacts (mais on garde bin/data/ : shaders, polices, assets nécessaires à l'app)
+obj/
+*.o
+*.a
+*.so
+bin/libs/
+bin/BNS-VisualGen
+bin/BNS-VisualGen_debug
+
+# Fichiers de configuration IDE potentiels
+.vscode/
+*.creator
+*.creator.user
+*.config
+*.files
+*.includes
+*.cbp
+*.workspace
+
+# Fichiers système
+.DS_Store
+*~
+*.swp
+node_modules/
+dist/
+build/
+*.log

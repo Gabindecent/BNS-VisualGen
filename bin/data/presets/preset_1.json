@@ -1,0 +1,52 @@
+{
+    "BNS____CONTROL_PANEL": {
+        "MODE_GENERATIF": {
+            "Couleurs": {
+                "Amplitude_Derive": "3",
+                "Couleur_Accent": "230, 98, 49, 255",
+                "Couleur_Claire": "92, 0, 255, 255",
+                "Couleur_Creux_Noir": "21, 70, 15, 255",
+                "Derive_Auto": "1",
+                "Vitesse_Derive": "0.6"
+            },
+            "Formes": {
+                "Anneaux": "0.376188",
+                "Densite_Lignes": "50.2187",
+                "Ondulation": "1.86058",
+                "Tourbillon": "1.58962",
+                "Vitesse": "2.40484"
+            }
+        },
+        "MODE_GENERATIF__actif_": "1",
+        "MUSIQUE__AUDIO_": {
+            "Reagit_a_la_musique": "0",
+            "Sensibilite_Micro_Ligne": "3",
+            "Sensibilite_fine": {
+                "Aigus_-__Drift_Speed": "1",
+                "Bass_-__Flash": "1",
+                "Bass_-__Zoom_Kick": "1"
+            }
+        },
+        "PRESETS": null,
+        "VIDEO___WEBCAM": {
+            "Avance": {
+                "Gain_Camera": "60",
+                "Seuil_Clair_Sombre": "0.45",
+                "Strobe_FPS": "20"
+            },
+            "Couleurs": {
+                "Amplitude_Derive": "3",
+                "Couleur_Claire": "255, 0, 150, 255",
+                "Couleur_Sombre": "20, 60, 10, 255",
+                "Derive_Auto": "0",
+                "Vitesse_Derive": "0.4"
+            },
+            "Mouvement": {
+                "Rotation": "0.8",
+                "Traine__Feedback_": "248",
+                "Zoom": "1.03"
+            }
+        },
+        "VIDEO___WEBCAM__actif_": "1"
+    }
+}

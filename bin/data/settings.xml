@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<BNS____CONTROL_PANEL>
+	<__MODE_GENERATIF>1</__MODE_GENERATIF>
+	<__Superposer_Video>0</__Superposer_Video>
+	<SIGNAL_IN>
+		<Cam_Gain>30</Cam_Gain>
+	</SIGNAL_IN>
+	<FEEDBACK_LARSEN>
+		<Zoom>1.01</Zoom>
+		<Rotation>0.3</Rotation>
+		<Feedback_Decay>245</Feedback_Decay>
+	</FEEDBACK_LARSEN>
+	<COLOR_LAB>
+		<Claire_R>255</Claire_R>
+		<Claire_G>0</Claire_G>
+		<Claire_B>153</Claire_B>
+		<Sombre_R>0</Sombre_R>
+		<Sombre_G>0</Sombre_G>
+		<Sombre_B>0</Sombre_B>
+		<Seuil_Clair_Sombre>0.3</Seuil_Clair_Sombre>
+		<Strobe_FPS>8</Strobe_FPS>
+	</COLOR_LAB>
+	<MODE_GENERATIF>
+		<Color_Drift_Auto>0</Color_Drift_Auto>
+		<Drift_Speed>0.5</Drift_Speed>
+		<Drift_Amplitude>1.96843</Drift_Amplitude>
+		<Wave_Count>12</Wave_Count>
+		<Evolution_Speed>1</Evolution_Speed>
+		<Wave_Amplitude>3</Wave_Amplitude>
+		<Spiral_Arms>3</Spiral_Arms>
+		<Spiral_Tightness>8</Spiral_Tightness>
+	</MODE_GENERATIF>
+	<AUDIO_IN>
+		<Audio_Reactive>0</Audio_Reactive>
+		<Input_Gain>3</Input_Gain>
+		<Bass_-__Flash>1</Bass_-__Flash>
+		<Bass_-__Zoom_Kick>1</Bass_-__Zoom_Kick>
+		<Aigus_-__Drift_Speed>1</Aigus_-__Drift_Speed>
+	</AUDIO_IN>
+</BNS____CONTROL_PANEL>
+<VIDEO___WEBCAM>
+	<SIGNAL_IN>
+		<Cam_Gain>53</Cam_Gain>
+	</SIGNAL_IN>
+	<FEEDBACK_LARSEN>
+		<Zoom>0.883069</Zoom>
+		<Rotation>0.0132275</Rotation>
+		<Feedback_Decay>252</Feedback_Decay>
+	</FEEDBACK_LARSEN>
+	<COLOR_LAB_VIDEO>
+		<Couleur_Claire>255, 0, 150, 255</Couleur_Claire>
+		<Couleur_Sombre>53, 255, 0, 255</Couleur_Sombre>
+		<Seuil_Clair_Sombre>0.269841</Seuil_Clair_Sombre>
+		<Strobe_FPS>20</Strobe_FPS>
+	</COLOR_LAB_VIDEO>
+</VIDEO___WEBCAM>
